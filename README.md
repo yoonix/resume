@@ -1,2 +1,2 @@
 # resume
-Jon Villarreal's Resume
+Repo for Jon Villarreal's Resume website.

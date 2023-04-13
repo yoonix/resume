@@ -49,5 +49,18 @@ h1, h2 {
 }
 #mainLeft {
     border-right: 1px solid lightgray;
- }
- 
+}
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: underline;
+}

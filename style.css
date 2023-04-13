@@ -10,7 +10,6 @@ h1 {
     padding-top: 1em;
     padding-bottom: 1em;
 }
-
 h2 {
     font-size: 1.5em;
     padding-bottom: 1em;
@@ -24,25 +23,20 @@ header {
     text-align: center;
     margin: auto 2em;
 }
-
 section {
     margin: auto 1em 4em 2em;
 }
-
 i {
     margin-right: .5em;
 }
-
 p {
     margin: .2em auto
 }
-
 hr {
     border: none;
     background-color: lightgray;
     height: 1px;
 }
-
 h1, h2 {
     font-weight: 100;
     margin-bottom: 0;
